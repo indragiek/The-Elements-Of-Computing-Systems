@@ -36,7 +36,7 @@
         M=0     // Fill with white
 (END)   
         @index
-        MD=M+1  // Increment index by 1
+        M=M+1  // Increment index by 1
         @count
         D=D-M
         @LOOP
